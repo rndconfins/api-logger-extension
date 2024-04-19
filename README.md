@@ -4,6 +4,9 @@
 </p>
 
 Assists in capturing network request events on web pages using the chrome.debugger API. It specifically captures network events of type XHR and excludes requests for .json files.
+> [!note]
+> only works with chromium based browser
+
 
 ### How to Install
 1. clone this repo or download the source from [here](https://github.com/rndconfins/api-logger-extension/archive/refs/tags/v1.0.0.zip)
